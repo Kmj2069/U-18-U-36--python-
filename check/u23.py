@@ -1,4 +1,5 @@
 #U-23: SUID, SGID, Sticky bit 설정 파일 점검
+"""코드 추가 점검 필요!!!"""
 
 import os
 import stat
